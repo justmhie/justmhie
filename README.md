@@ -55,7 +55,7 @@ I'm a Computer Science student at Ateneo de Davao University with a passion for 
   <a href="mailto:alyssamhiee@gmail.com">
     <img src="https://img.shields.io/badge/Email-14151f?style=for-the-badge&logo=gmail&logoColor=DA70D6" alt="Email" />
   </a>
-  <a href="https://aly-portfolio.vercel.app/">
+  <a href="https://vercel.com/">
     <img src="https://img.shields.io/badge/Portfolio-14151f?style=for-the-badge&logo=vercel&logoColor=DA70D6" alt="Portfolio" />
   </a>
 </div>
