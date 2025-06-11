@@ -30,12 +30,12 @@ I'm a Computer Science student at Ateneo de Davao University with a passion for 
 ## 🏆 Certifications & Achievements
 
 - **AWS Certified Cloud Practitioner** (2025)
-- **DataCamp Scholar** - Google Developer Group PUP (2025)
 - **Civil Service Professional Eligibility** (2024)
 - **SM Foundation Scholar** - maintaining 3.91 GPA
 
 ## 👥 Leadership & Community
 
+- **NASA Space Apps Challenge Davao 2025** - Local Lead
 - **Samahan Systems and Development** - Dev Lead & Frontend Developer
 - **PyCon Asia-Pacific 2025** - Stagehand Committee & Web Designer
 - **DurianPy** - Creatives Lead
